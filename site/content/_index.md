@@ -7,8 +7,7 @@ text: From the Beach Boys to Keith Urban, Spurs brings your favorites to the sta
 
 blurb:
     heading: Spurs Band Is...
-    text: "James Neiburg: Vocals, Guitars, Keyboards, Sax"
-    text: "Joe Peichel: Vocals, Guitars"
+    text: "James Neiburg: Vocals, Guitars, Keyboards, Sax.  Joe Peichel: Vocals, Guitars"
 intro:
     heading: "What we offer"
     text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
